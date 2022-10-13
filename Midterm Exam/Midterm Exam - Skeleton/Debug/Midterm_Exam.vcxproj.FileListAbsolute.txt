@@ -1,0 +1,5 @@
+D:\Work\Profe\Programacion2\ExamenParcial\Midterm Exam\Debug\Midterm_Exam.exe
+D:\Work\Profe\Programacion2\ExamenParcial\Midterm Exam\Debug\Midterm_Exam.pdb
+D:\Work\Profe\Programacion2\ExamenParcial\Midterm Exam - Skeleton\Debug\Midterm_Exam.exe
+D:\Work\Profe\Programacion2\ExamenParcial\Midterm Exam - Skeleton\Debug\Midterm_Exam.pdb
+C:\Users\rylang\Downloads\Midterm Exam - Skeleton\Midterm Exam - Skeleton\Debug\Midterm_Exam.exe
